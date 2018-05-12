@@ -1,0 +1,36 @@
+_repo: The-Gully-of-BluemansdykeAnd-Other-stories_40848
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40848-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Doyle, Arthur Conan
+    aliases:
+    - Conan Doyle, Arthur, Sir
+    - Doyle, Sir Arthur Conan
+    - Doyle, A. Conan
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '69'
+    url: http://www.gutenberg.org/2009/agents/69
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
+description: ''
+gutenberg_issued: '2012-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40848'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories, English'
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+- !lcc 'PR'
+tableOfContents: The gully of Bluemansdyke -- The parson of Jackman's Gulch -- My
+  friend the murderer -- The silver hatchet -- The man from Archangel -- That little
+  square box -- A night among the nihilists.
+title: The Gully of Bluemansdyke, and Other stories
+url: http://www.gutenberg.org/ebooks/40848
